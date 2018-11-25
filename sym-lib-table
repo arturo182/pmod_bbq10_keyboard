@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MCU_Microchip_SAMD)(type Legacy)(uri ${KIPRJMOD}/library/MCU_Microchip_SAMD.lib)(options "")(descr ""))
+  (lib (name Keyboard)(type Legacy)(uri ${KIPRJMOD}/library/Keyboard.lib)(options "")(descr ""))
+)
