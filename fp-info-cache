@@ -1,4 +1,4 @@
-15067784593714199
+15144838854208646
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (http://www.bulgin.com/media/bulgin/data/Battery_holders.pdf)
@@ -1968,7 +1968,7 @@ MagneticBuzzer Kobitone 254-EMB84Q-RO
 3
 Buzzer_Beeper
 MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R
-Buzzer, Elektromagnetic Beeper, Summer, 3-28V-DC,
+Buzzer, Elektromagnetic Beeper, Summer, 3-28V-DC, https://www.kynix.com/uploadfiles/pdf/AI-4228-TWT-R.pdf
 Projects Unlimited AI-4228-TWT-R 
 0
 2
@@ -2003,7 +2003,7 @@ Star Micronics HMB-06 HMB-12
 2
 Buzzer_Beeper
 PUIAudio_SMT_0825_S_4_R
-SMD 8540
+SMD 8540, http://www.puiaudio.com/product-detail.aspx?partnumber=SMT-0825-S-4-R
 SMD 8540
 0
 4
@@ -2150,344 +2150,344 @@ Capacitor Electrolytic
 2
 Capacitor_SMD
 CP_Elec_3x5.4
-SMT capacitor, aluminium electrolytic, 3x5.4, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 3.0x5.4mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_4x3
-SMT capacitor, aluminium electrolytic, 4x3, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 4.0x3mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_4x3.9
-SMT capacitor, aluminium electrolytic, 4x3.9, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 4.0x3.9mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_4x4.5
-SMT capacitor, aluminium electrolytic, 4x4.5, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 4.0x4.5mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_4x5.3
-SMT capacitor, aluminium electrolytic, 4x5.3, Vishay 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Vishay, 4.0x5.3mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_4x5.4
-SMT capacitor, aluminium electrolytic, 4x5.4, Panasonic A5, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Panasonic A5 / Nichicon, 4.0x5.4mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_4x5.7
-SMT capacitor, aluminium electrolytic, 4x5.7, United Chemi-Con 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 4.0x5.7mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_4x5.8
-SMT capacitor, aluminium electrolytic, 4x5.8, Panasonic 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Panasonic, 4.0x5.8mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_5x3
-SMT capacitor, aluminium electrolytic, 5x3, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x3.0mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_5x3.9
-SMT capacitor, aluminium electrolytic, 5x3.9, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x3.9mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_5x4.4
-SMT capacitor, aluminium electrolytic, 5x4.4, Panasonic B45 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Panasonic B45, 5.0x4.4mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_5x4.5
-SMT capacitor, aluminium electrolytic, 5x4.5, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x4.5mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_5x5.3
-SMT capacitor, aluminium electrolytic, 5x5.3, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.3mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_5x5.4
-SMT capacitor, aluminium electrolytic, 5x5.4, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.4mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_5x5.7
-SMT capacitor, aluminium electrolytic, 5x5.7, United Chemi-Con 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 5.0x5.7mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_5x5.8
-SMT capacitor, aluminium electrolytic, 5x5.8, Panasonic 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Panasonic, 5.0x5.8mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_5x5.9
-SMT capacitor, aluminium electrolytic, 5x5.9, Panasonic B6 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Panasonic B6, 5.0x5.9mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_6.3x3
-SMT capacitor, aluminium electrolytic, 6.3x3, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x3.0mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_6.3x3.9
-SMT capacitor, aluminium electrolytic, 6.3x3.9, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x3.9mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_6.3x4.5
-SMT capacitor, aluminium electrolytic, 6.3x4.5, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x4.5mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_6.3x4.9
-SMT capacitor, aluminium electrolytic, 6.3x4.9, Panasonic C5 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Panasonic C5, 6.3x4.9mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_6.3x5.2
-SMT capacitor, aluminium electrolytic, 6.3x5.2, United Chemi-Con 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 6.3x5.2mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_6.3x5.3
-SMT capacitor, aluminium electrolytic, 6.3x5.3, Cornell Dubilier Electronics 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Cornell Dubilier, 6.3x5.3mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_6.3x5.4
-SMT capacitor, aluminium electrolytic, 6.3x5.4, Panasonic C55 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Panasonic C55, 6.3x5.4mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_6.3x5.4_Nichicon
-SMT capacitor, aluminium electrolytic, 6.3x5.4, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.4mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_6.3x5.7
-SMT capacitor, aluminium electrolytic, 6.3x5.7, United Chemi-Con 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 6.3x5.7mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_6.3x5.8
-SMT capacitor, aluminium electrolytic, 6.3x5.8, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.8mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_6.3x5.9
-SMT capacitor, aluminium electrolytic, 6.3x5.9, Panasonic C6 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Panasonic C6, 6.3x5.9mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_6.3x7.7
-SMT capacitor, aluminium electrolytic, 6.3x7.7, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x7.7mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_6.3x9.9
-SMT capacitor, aluminium electrolytic, 6.3x9.9, Panasonic C10 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Panasonic C10, 6.3x9.9mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_8x5.4
-SMT capacitor, aluminium electrolytic, 8x5.4, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x5.4mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_8x6.2
-SMT capacitor, aluminium electrolytic, 8x6.2, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x6.2mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_8x6.5
-SMT capacitor, aluminium electrolytic, 8x6.5, Rubycon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Rubycon, 8.0x6.5mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_8x6.7
-SMT capacitor, aluminium electrolytic, 8x6.7, United Chemi-Con 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 8.0x6.7mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_8x6.9
-SMT capacitor, aluminium electrolytic, 8x6.9, Panasonic E7 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Panasonic E7, 8.0x6.9mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_8x10
-SMT capacitor, aluminium electrolytic, 8x10, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x10mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_8x10.5
-SMT capacitor, aluminium electrolytic, 8x10.5, Vishay 0810 http://www.vishay.com/docs/28395/150crz.pdf
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Vishay 0810, 8.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_8x11.9
-SMT capacitor, aluminium electrolytic, 8x11.9, Panasonic E12 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Panasonic E12, 8.0x11.9mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_10x7.7
-SMT capacitor, aluminium electrolytic, 10x7.7, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 10.0x7.7mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_10x7.9
-SMT capacitor, aluminium electrolytic, 10x7.9, Panasonic F8 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Panasonic F8, 10.0x7.9mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_10x10
-SMT capacitor, aluminium electrolytic, 10x10, Nichicon 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Nichicon, 10.0x10.0mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_10x10.5
-SMT capacitor, aluminium electrolytic, 10x10, Vishay 1010 http://www.vishay.com/docs/28395/150crz.pdf
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Vishay 1010, 10.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_10x12.5
-SMT capacitor, aluminium electrolytic, 10x12.5, Vishay 1012 http://www.vishay.com/docs/28395/150crz.pdf
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Vishay 1012, 10.0x12.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_10x12.6
-SMT capacitor, aluminium electrolytic, 10x12.6, Panasonic F12 
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Panasonic F12, 10.0x12.6mm
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_10x14.3
-SMT capacitor, aluminium electrolytic, 10x14.3, Vishay 1014 http://www.vishay.com/docs/28395/150crz.pdf
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Vishay 1014, 10.0x14.3mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_16x17.5
-SMT capacitor, aluminium electrolytic, 16x17.5, Vishay 1616 http://www.vishay.com/docs/28395/150crz.pdf
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Vishay 1616, 16.0x17.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_16x22
-SMT capacitor, aluminium electrolytic, 16x22, Vishay 1621 http://www.vishay.com/docs/28395/150crz.pdf
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Vishay 1621, 16.0x22.0mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_18x17.5
-SMT capacitor, aluminium electrolytic, 18x17.5, Vishay 1816 http://www.vishay.com/docs/28395/150crz.pdf
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Vishay 1816, 18.0x17.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
 0
 2
 2
 Capacitor_SMD
 CP_Elec_18x22
-SMT capacitor, aluminium electrolytic, 18x22, Vishay 1821 http://www.vishay.com/docs/28395/150crz.pdf
-Capacitor Electrolytic
+SMD capacitor, aluminum electrolytic, Vishay 1821, 18.0x22.0mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
 0
 2
 2
@@ -6174,6 +6174,13 @@ sma edge
 11
 2
 Connector_Coaxial
+SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount
+http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf
+SMA
+0
+5
+2
+Connector_Coaxial
 SMB_Jack_Vertical
 SMB pcb mounting jack
 SMB Jack  Striaght
@@ -8406,6 +8413,90 @@ connector Harwin M20-890 horizontal
 0
 21
 20
+Connector_Harwin
+Harwin_M20-7810245_2x02_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810245, 2 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+4
+4
+Connector_Harwin
+Harwin_M20-7810345_2x03_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810345, 3 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+6
+6
+Connector_Harwin
+Harwin_M20-7810445_2x04_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810445, 4 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+8
+8
+Connector_Harwin
+Harwin_M20-7810545_2x05_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810545, 5 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+10
+10
+Connector_Harwin
+Harwin_M20-7810645_2x06_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810645, 6 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+12
+12
+Connector_Harwin
+Harwin_M20-7810745_2x07_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810745, 7 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+14
+14
+Connector_Harwin
+Harwin_M20-7810845_2x08_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810845, 8 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+16
+16
+Connector_Harwin
+Harwin_M20-7810945_2x09_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810945, 9 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+18
+18
+Connector_Harwin
+Harwin_M20-7811045_2x10_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7811045, 10 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+20
+20
+Connector_Harwin
+Harwin_M20-7811245_2x12_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7811245, 12 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+24
+24
+Connector_Harwin
+Harwin_M20-7811545_2x15_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7811545, 15 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+30
+30
+Connector_Harwin
+Harwin_M20-7812045_2x20_P2.54mm_Vertical
+Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7812045, 20 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
+connector Harwin M20 side entry
+0
+40
+40
 Connector_HDMI
 HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal
 HDMI Contact Technology Type A http://www.contactswitch.com/en/download.aspx?id=1449
@@ -8861,6 +8952,13 @@ connector Hirose  top entry
 0
 6
 6
+Connector_Hirose_Extra
+BM14B(0.8)-24DS-0.4V(53)
+
+
+0
+28
+28
 Connector_IDC
 IDC-Header_2x03_P2.54mm_Horizontal
 Through hole angled IDC box header, 2x03, 2.54mm pitch, double rows
@@ -28867,6 +28965,13 @@ Surface mounted pin header SMD 2x40 2.54mm double row
 0
 80
 80
+Connector_PinHeader_2.54mm_Extra
+PMODPinHeader_1x06_P2.54mm_Horizontal
+Through hole angled pin header, 1x06, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x06 2.54mm single row
+0
+6
+6
 Connector_PinSocket_1.00mm
 PinSocket_1x02_P1.00mm_Vertical
 Through hole straight socket strip, 1x02, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated
@@ -39621,7 +39726,7 @@ Hahn ACDC-Converter THT
 4
 Converter_ACDC
 Converter_ACDC_MeanWell_IRM-02-xx_SMD
-ACDC-Converter, 3W, Meanwell, IRM-02, SMD, https://www.meanwell.co.uk/media/productPDF/IRM-02-spec.pdf
+ACDC-Converter, 3W, Meanwell, IRM-02, SMD, https://www.meanwell.com/Upload/PDF/IRM-02/IRM-02-SPEC.PDF
 ACDC-Converter 3W
 0
 14
@@ -39717,6 +39822,13 @@ Vigortronix VTX-214-010-xxx serie of ACDC converter
 0
 5
 5
+Converter_DCDC
+Converter_DCDC_Artesyn_ATA_SMD
+DCDC-Converter, Artesyn, ATA Series, 3W Single and Dual Output, 1500VDC Isolation, 24.0x13.7x8.0mm https://www.artesyn.com/power/assets/ata_series_ds_01apr2015_79c25814fd.pdf https://www.artesyn.com/power/assets/trn_dc-dc_ata_3w_series_releas1430412818_techref.pdf
+DCDC SMD
+0
+7
+7
 Converter_DCDC
 Converter_DCDC_Bothhand_CFUDxxxx_THT
 DCDC-Converter, BOTHHAND, Type CFxxxx-Serie,  (Very dodgy url but was the only at hand), 
@@ -39955,6 +40067,13 @@ DCDC-Converter TRACO TSR-1
 0
 3
 3
+Converter_DCDC
+Converter_DCDC_XP_POWER-ISU02_SMD
+DCDC-Converter, XP POWER, ISU02 Series, 2W Single and Dual Output, 1500VDC Isolation, 19.0x17.0x8.7mm https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+DCDC SMD XP POWER ISU02
+0
+7
+7
 Converter_DCDC
 Converter_DCDC_XP_POWER_JTExxxxDxx_THT
 DCDC-Converter, XP POWER, Type JTE06 Series,  Dual Output
@@ -42708,14 +42827,14 @@ LCD 16x2 Alphanumeric 16pin
 16
 Display_7Segment
 7SEGMENT-LED__HDSM531_HDSM533_SMD
-7-Segment Display, HDSM53x
+7-Segment Display, HDSM53x, https://docs.broadcom.com/docs/AV02-0713EN
 7segment LED HDSM531 HDSM533
 0
 10
 10
 Display_7Segment
 7SegmentLED_LTS6760_LTS6780
-7-Segment Display, LTS67x0
+7-Segment Display, LTS67x0, http://optoelectronics.liteon.com/upload/download/DS30-2001-355/S6760jd.pdf
 7Segment LED LTS6760 LTS6780
 0
 10
@@ -43037,141 +43156,141 @@ single digit 7 segemnt red/green LED
 10
 Fiducial
 Fiducial_0.5mm_Dia_1mm_Outer
-Circular Fiducial, 0.5mm bare copper top; 1mm keepout (Level C)
-marker
+Circular Fiducial, 0.5mm bare copper top, 1mm keepout (Level C)
+fiducial
 0
 1
-1
+0
 Fiducial
 Fiducial_0.75mm_Dia_1.5mm_Outer
-Circular Fiducial, 0.75mm bare copper top; 1.5mm keepout (Level B)
-marker
+Circular Fiducial, 0.75mm bare copper top, 1.5mm keepout (Level B)
+fiducial
 0
 1
-1
+0
 Fiducial
 Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom
-Circular Fiducial, 1mm bare copper bottom; 2.54mm keepout
-marker
+Circular Fiducial, 1mm bare copper bottom, 2.54mm keepout
+fiducial
 0
 1
-1
+0
 Fiducial
 Fiducial_1mm_Dia_2.54mm_Outer_CopperTop
-Circular Fiducial, 1mm bare copper top; 2.54mm keepout
-marker
+Circular Fiducial, 1mm bare copper top, 2.54mm keepout
+fiducial
 0
 1
-1
+0
 Fiducial
 Fiducial_1mm_Dia_2mm_Outer
-Circular Fiducial, 1mm bare copper top; 2mm keepout (Level A)
-marker
+Circular Fiducial, 1mm bare copper top, 2mm keepout (Level A)
+fiducial
 0
 1
-1
+0
 Fiducial
 Fiducial_classic_big_CopperBottom_Type1
-Fiducial, Classical, Big, Copper Bottom, Typ 1, Passermarke,
-Fiducial, Classical, Big, Copper Bottom, Typ 1, Passermarke, Passermarke,
+Fiducial, Classic, Big, Copper Bottom, Type 1
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_classic_big_CopperBottom_Type2
-Fiducial, Classical, Big, Copper Bottom, Typ 2, Passermarke,
-Fiducial, Classical, Big, Copper Bottom, Typ 2, Passermarke, Passermarke,
+Fiducial, Classic, Big, Copper Bottom, Type 2
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_classic_big_CopperTop_Type1
-Fiducial, Classical, Big, Copper Top, Typ 1, Passermarke,
-Fiducial, Classical, Big, Copper Top, Typ 1, Passermarke,
+Fiducial, Classic, Big, Copper Top, Type 1
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_classic_big_CopperTop_Type2
-Fiducial, Classical, Big, Copper Top, Typ 2, Passermarke,
-Fiducial, Classical, Big, Copper Top, Typ 2, Passermarke,
+Fiducial, Classic, Big, Copper Top, Type 2
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_classic_big_SilkscreenTop_Type1
-Fiducial, Classical, Big, Silkscreen Top, Typ 1, Passermarke,
-Fiducial, Classical, Big, Silkscreen Top, Typ 1, Passermarke,
+Fiducial, Classic, Big, Silkscreen Top, Type 1
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_classic_big_SilkscreenTop_Type2
-Fiducial, Classical, Big, Silkscreen Top, Typ 2, Passermarke,
-Fiducial, Classical, Big, Silkscreen Top, Typ 2, Passermarke,
+Fiducial, Classic, Big, Silkscreen Top, Type 2
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_classic_Small_CopperBottom_Type1
-Fiducial, Classical, Small, Copper Bottom, Typ 1, Passermarke,
-Fiducial, Classical, Small, Copper Bottom, Typ 1, Passermarke,
+Fiducial, Classic, Small, Copper Bottom, Type 1
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_classic_Small_CopperBottom_Type2
-Fiducial, Classical, Small, Copper Bottom, Typ 2, Passermarke,
-Fiducial, Classical, Small, Copper Bottom, Typ 2, Passermarke,
+Fiducial, Classic, Small, Copper Bottom, Type 2
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_classic_Small_CopperTop_Type1
-Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
-Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+Fiducial, Classic, Small, Copper Top, Type 1
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_classic_Small_CopperTop_Type2
-Fiducial, Classical, Small, Copper Top, Typ 2, Passermarke,
-Fiducial, Classical, Small, Copper Top, Typ 2, Passermarke,
+Fiducial, Classic, Small, Copper Top, Type 2
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_classic_Small_SilkscreenTop_Type1
-Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
-Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+Fiducial, Classic, Small, Copper Top, Type 1
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_classic_Small_SilkscreenTop_Type2
-Fiducial, Classical, Small, Silkscreen Top, Typ 2, Passermarke,
-Fiducial, Classical, Small, Silkscreen Top, Typ 2, Passermarke,
+Fiducial, Classic, Small, Silkscreen Top, Type 2
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_Modern_CopperBottom
-Fiducial, Modern, Copper Bottom, Passermarke,
-Fiducial, Modern, Copper Bottom, Passermarke,
+Fiducial, Modern, Copper Bottom
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_Modern_CopperTop
-Fiducial, Modern, Copper Top, Passermarke,
-Fiducial, Modern, Copper Top, Passermarke,
+Fiducial, Modern, Copper Top
+fiducial
 0
 1
 0
 Fiducial
 Fiducial_Modern_SilkscreenTop
-Fiducial, Modern, Silkscreen Top, Passermarke,
-Fiducial, Modern, Silkscreen Top, Passermarke,
+Fiducial, Modern, Silkscreen Top
+fiducial
 0
 1
 0
@@ -43800,14 +43919,14 @@ heatsink
 0
 Heatsink
 Heatsink_Aavid-TV5G_TO220_Horizontal
-http://www.aavid.eu/products/standard/tv5g
+Heatsink TV5G TO-220 Horizontal, https://www.shopaavid.com/Product/TV-5G
 Heatsink TV5G TO-220 Horizontal 
 0
 0
 0
 Heatsink
 Heatsink_AAVID_573300D00010G_TO-263
-Heatsink, 12.70mm x 26.16mm x 10.16, SMD, 18K/W, TO-263, D2 Pak, https://www.aavid.com/products/standard/573300d00010g
+Heatsink, 12.70mm x 26.16mm x 10.16, SMD, 18K/W, TO-263, D2 Pak, https://www.shopaavid.com/Product/573300D00000G
 Heatsink AAVID TO-263 D2 Pak
 0
 2
@@ -46899,6 +47018,13 @@ solder jumper open
 0
 5
 3
+Keyboard
+BBQ10KBD
+
+
+0
+0
+0
 LED_SMD
 LED-L1T2_LUMILEDS
 http://www.lumileds.com/uploads/438/DS133-pdf
@@ -47249,6 +47375,13 @@ LED Cree XQ
 0
 2
 2
+LED_SMD
+LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
+http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf
+RGB LED NeoPixel addressable
+0
+4
+4
 LED_SMD
 LED_Kingbright_AAA3528ESGCT
 Kingbright, dual LED, 3.5 x 2.8 mm Surface Mount LED Lamp (http://www.kingbrightusa.com/images/catalog/SPEC/AAA3528ESGCT.pdf)
@@ -50105,13 +50238,6 @@ XFBGA-121
 0
 121
 121
-Package_BGA_Extra
-TFBGA-289_17x17_14.0x14.0mm
-
-
-0
-289
-289
 Package_CSP
 Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm
 LFCSP, exposed pad, Analog Devices (http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5542.pdf)
@@ -53852,7 +53978,7 @@ LSOP 2.54mm 300mil
 8
 Package_DIP
 PowerIntegrations_eDIP-12B
-Power Integrations eDIP-12B, see https://www.mouser.com/ds/2/328/linkswitch-pl_family_datasheet-12517.pdf
+Power Integrations eDIP-12B, see https://www.power.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf
 THT DIP DIL PDIP 2.54mm 7.62mm 300mil
 0
 11
@@ -55846,6 +55972,20 @@ S0-20
 20
 20
 Package_SO
+SOIC-4_4.55x2.6mm_P1.27mm
+SOIC, 4 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=12884&prodName=TLP291), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+4
+4
+Package_SO
+SOIC-4_4.55x3.7mm_P2.54mm
+SOIC, 6 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=11791&prodName=TLP185), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+4
+4
+Package_SO
 SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.35x2.35mm
 8-Lead Thermally Enhanced Plastic Small Outline (SE) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
 SOIC 1.27
@@ -55861,7 +56001,7 @@ SOIC 1.27
 7
 Package_SO
 SOIC-8_3.9x4.9mm_P1.27mm
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)
 SOIC 1.27
 0
 8
@@ -55912,6 +56052,13 @@ Package_SO
 SOIC-16_3.9x9.9mm_P1.27mm
 16-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
 SOIC 1.27
+0
+16
+16
+Package_SO
+SOIC-16_4.55x10.3mm_P1.27mm
+SOIC, 16 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=12858&prodName=TLP291-4), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 16
 16
@@ -56496,6 +56643,13 @@ SSOP 0.5
 0
 56
 56
+Package_SO
+Vishay_PowerPAK_1212-8_Dual
+PowerPAK 1212-8 Dual (https://www.vishay.com/docs/71656/ppak12128.pdf, https://www.vishay.com/docs/72598/72598.pdf)
+Vishay_PowerPAK_1212-8_Dual
+0
+6
+6
 Package_SO
 Vishay_PowerPAK_1212-8_Single
 PowerPAK 1212-8 Single (https://www.vishay.com/docs/71656/ppak12128.pdf, https://www.vishay.com/docs/72597/72597.pdf)
@@ -60102,6 +60256,20 @@ Potentiometer vertical hole Piher T-16L Single
 3
 3
 Potentiometer_THT
+Potentiometer_Runtron_RM-063_Horizontal
+Potentiometer, horizontal, Trimmer, RM-063 http://www.runtron.com/down/PDF%20Datasheet/Carbon%20Film%20Potentiometer/RM065%20RM063.pdf
+Potentiometer Trimmer RM-063
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Runtron_RM-065_Vertical
+Potentiometer, vertical, Trimmer, RM-065 http://www.runtron.com/down/PDF%20Datasheet/Carbon%20Film%20Potentiometer/RM065%20RM063.pdf
+Potentiometer Trimmer RM-065
+0
+3
+3
+Potentiometer_THT
 Potentiometer_Vishay_43_Horizontal
 Potentiometer, horizontal, Vishay 43, http://www.vishay.com/docs/57026/43.pdf
 Potentiometer horizontal Vishay 43
@@ -62691,6 +62859,34 @@ Current transducer
 0
 10
 10
+Sensor_Motion
+InvenSense_QFN-24_3x3mm_P0.4mm
+24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm; EP 1.7x1.54mm; for InvenSense motion sensors; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)
+QFN 0.4
+0
+24
+24
+Sensor_Motion
+InvenSense_QFN-24_3x3mm_P0.4mm_NoMask
+24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm; EP 1.7x1.54mm; for InvenSense motion sensors; Mask removed below exposed pad; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)
+QFN 0.4
+0
+25
+24
+Sensor_Motion
+InvenSense_QFN-24_4x4mm_P0.5mm
+24-Lead Plastic QFN (4mm x 4mm); Pitch 0.5mm; EP 2.7x2.6mm; for InvenSense motion sensors; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)
+QFN 0.5
+0
+24
+24
+Sensor_Motion
+InvenSense_QFN-24_4x4mm_P0.5mm_NoMask
+24-Lead Plastic QFN (4mm x 4mm); Pitch 0.5mm; EP 2.7x2.6mm; for InvenSense motion sensors; Mask removed below exposed pad; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)
+QFN 0.5
+0
+25
+24
 Sensor_Pressure
 Freescale_98ARH99066A
 https://www.nxp.com/docs/en/data-sheet/MPXH6250A.pdf
@@ -63605,6 +63801,41 @@ Symbol
 WEEE-Logo_28.1x40mm_SilkScreen
 Waste Electrical and Electronic Equipment Directive
 Logo WEEE
+0
+0
+0
+Symbols_Extra
+SolderParty-Logo_6.3x5.9mm_SilkScreen
+
+
+0
+0
+0
+Symbols_Extra
+SolderParty-Logo_9.5x8.8mm_SilkScreen
+
+
+0
+0
+0
+Symbols_Extra
+SolderParty-Logo_12.6x11.7mm_SilkScreen
+
+
+0
+0
+0
+Symbols_Extra
+SolderParty-Logo_13.5x12.6mm_SilkScreen
+
+
+0
+0
+0
+Symbols_Extra
+SolderParty-Logo_14.6x13.5mm_SilkScreen
+
+
 0
 0
 0
@@ -67411,7 +67642,7 @@ TEZ PCB Transformer
 13
 Transformer_THT
 Transformer_CHK_EI30-2VA_1xSec
-Trafo, Printtrafo, CHK, EI30, 2VA, 1x Sec,
+Trafo, Printtrafo, CHK, EI30, 2VA, 1x Sec,http://www.eratransformers.com/downloads/030-7585.0.pdf
 Trafo Printtrafo CHK EI30 2VA 1x Sec 
 0
 10
@@ -67432,21 +67663,21 @@ Trafo Printtrafo CHK EI30 2VA neutral
 10
 Transformer_THT
 Transformer_CHK_EI38-3VA_1xSec
-Trafo, Printtrafo, CHK, EI38, 3VA, 1x Sec,
+Trafo, Printtrafo, CHK, EI38, 3VA, 1x Sec, http://www.eratransformers.com/product-detail/20
 Trafo Printtrafo CHK EI38 3VA 1x Sec 
 0
 10
 10
 Transformer_THT
 Transformer_CHK_EI38-3VA_2xSec
-Trafo, Printtrafo, CHK, EI38, 3VA, 2x Sec,
+Trafo, Printtrafo, CHK, EI38, 3VA, 2x Sec, http://www.eratransformers.com/product-detail/20
 Trafo Printtrafo CHK EI38 3VA 2x Sec 
 0
 10
 10
 Transformer_THT
 Transformer_CHK_EI38-3VA_Neutral
-Trafo, Printtrafo, CHK, EI38, 3VA, neutral,
+Trafo, Printtrafo, CHK, EI38, 3VA, neutral, http://www.eratransformers.com/product-detail/20
 Trafo Printtrafo CHK EI42 3VA neutral 
 0
 10
@@ -67474,21 +67705,21 @@ Trafo Printtrafo CHK EI42 5VA neutral
 10
 Transformer_THT
 Transformer_CHK_EI48-8VA_1xSec
-Trafo, Printtrafo, CHK, EI48, 8VA, 1x Sec,
+Trafo, Printtrafo, CHK, EI48, 8VA, 1x Sec, http://www.eratransformers.com/product-detail/18
 Trafo Printtrafo CHK EI48 8VA 1x Sec 
 0
 12
 12
 Transformer_THT
 Transformer_CHK_EI48-8VA_2xSec
-Trafo, Printtrafo, CHK, EI48, 8VA, 2x Sec,
+Trafo, Printtrafo, CHK, EI48, 8VA, 2x Sec, http://www.eratransformers.com/product-detail/18
 Trafo Printtrafo CHK EI48 8VA 2x Sec 
 0
 12
 12
 Transformer_THT
 Transformer_CHK_EI48-8VA_Neutral
-Trafo, Printtrafo, CHK, EI48, 8VA, neutral,
+Trafo, Printtrafo, CHK, EI48, 8VA, neutral, http://www.eratransformers.com/product-detail/18
 Trafo Printtrafo CHK EI48 8VA neutral 
 0
 12
@@ -67502,56 +67733,56 @@ Trafo Printtrafo CHK EI48 10VA 1x Sec
 12
 Transformer_THT
 Transformer_CHK_EI48-10VA_2xSec
-Trafo, Printtrafo, CHK, EI48, 10VA, 2x Sec,
+Trafo, Printtrafo, CHK, EI48, 10VA, 2x Sec, http://www.eratransformers.com/product-detail/18
 Trafo Printtrafo CHK EI48 10VA 2x Sec 
 0
 12
 12
 Transformer_THT
 Transformer_CHK_EI48-10VA_Neutral
-Trafo, Printtrafo, CHK, EI48, 10VA, neutral,
+Trafo, Printtrafo, CHK, EI48, 10VA, neutral, http://www.eratransformers.com/product-detail/18
 Trafo Printtrafo CHK EI48 10VA neutral 
 0
 12
 12
 Transformer_THT
 Transformer_CHK_EI54-12VA_1xSec
-Trafo, Printtrafo, CHK, EI54, 12VA, 1x Sec,
+Trafo, Printtrafo, CHK, EI54, 12VA, 1x Sec,http://www.eratransformers.com/product-detail/19
 Trafo Printtrafo CHK EI54 12VA 1x Sec 
 0
 14
 14
 Transformer_THT
 Transformer_CHK_EI54-12VA_2xSec
-Trafo, Printtrafo, CHK, EI54, 12VA, 2x Sec,
+Trafo, Printtrafo, CHK, EI54, 12VA, 2x Sec,http://www.eratransformers.com/product-detail/19
 Trafo Printtrafo CHK EI54 12VA 2x Sec 
 0
 14
 14
 Transformer_THT
 Transformer_CHK_EI54-12VA_Neutral
-Trafo, Printtrafo, CHK, EI54, 12VA, neutral,
+Trafo, Printtrafo, CHK, EI54, 12VA, neutral,http://www.eratransformers.com/product-detail/19
 Trafo Printtrafo CHK EI54 12VA neutral 
 0
 14
 14
 Transformer_THT
 Transformer_CHK_EI54-16VA_1xSec
-Trafo, Printtrafo, CHK, EI54, 16VA, 1x Sec,
+Trafo, Printtrafo, CHK, EI54, 16VA, 1x Sec,http://www.eratransformers.com/product-detail/19
 Trafo Printtrafo CHK EI54 16VA 1x Sec 
 0
 14
 14
 Transformer_THT
 Transformer_CHK_EI54-16VA_2xSec
-Trafo, Printtrafo, CHK, EI54, 16VA, 2x Sec,
+Trafo, Printtrafo, CHK, EI54, 16VA, 2x Sec,http://www.eratransformers.com/product-detail/19
 Trafo Printtrafo CHK EI54 16VA 2x Sec 
 0
 14
 14
 Transformer_THT
 Transformer_CHK_EI54-16VA_Neutral
-Trafo, Printtrafo, CHK, EI54, 16VA, neutral,
+Trafo, Printtrafo, CHK, EI54, 16VA, neutral,http://www.eratransformers.com/product-detail/19
 Trafo Printtrafo CHK EI54 16VA neutral 
 0
 14
@@ -67593,14 +67824,14 @@ Transformer Transformator ETD29 14 Pin Vertical EPCOS-B66359J1014T
 14
 Transformer_THT
 Transformer_Microphone_Lundahl_LL1538
-AUDIO TRAFO LUNDAHL
+AUDIO TRAFO LUNDAHL, https://www.lundahltransformers.com/wp-content/uploads/datasheets/1538_8xl.pdf
 AUDIO TRAFO LUNDAHL
 0
 7
 7
 Transformer_THT
 Transformer_Microphone_Lundahl_LL1587
-AUDIO TRAFO LUNDAHL
+AUDIO TRAFO LUNDAHL, https://www.lundahltransformers.com/wp-content/uploads/datasheets/1587.pdf
 AUDIO TRAFO LUNDAHL
 0
 7
@@ -67614,28 +67845,28 @@ Transformer Transformator ETD29 13 Pin Horizontal Myrra-74040
 13
 Transformer_THT
 Transformer_NF_ETAL_1-1_P1200
-NF-Transformer, 1:1, ETAL P1200,
+NF-Transformer, 1:1, ETAL P1200,http://www.etalgroup.com/sites/default/files/products/P1200_April_2005.pdf
 NF-Transformer 1to1 ETAL P1200 
 0
 4
 4
 Transformer_THT
 Transformer_NF_ETAL_P1165
-NF-Transformer,  ETAL, P1165,
+NF-Transformer,  ETAL, P1165,http://www.etalgroup.com/sites/default/files/products/P1165_February_2006.pdf
 NF-Transformer ETAL P1165 
 0
 4
 4
 Transformer_THT
 Transformer_NF_ETAL_P3324
-NF-Transformer, ETAL P3324,
+NF-Transformer, ETAL P3324,http://www.etalgroup.com/sites/default/files/products/P3324_April_2005.pdf
 NF-Transformer ETAL P3324 
 0
 4
 4
 Transformer_THT
 Transformer_NF_ETAL_P3356
-NF-Transformer, ETAL P3356,
+NF-Transformer, ETAL P3356, http://www.etalgroup.com/sites/default/files/products/P3356_December_2005.pdf
 NF-Transformer ETAL P3356 
 0
 4
