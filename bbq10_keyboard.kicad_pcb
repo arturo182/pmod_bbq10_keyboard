@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew "(6.0.0-rc1-dev-1009-g96e65c7f2)")
+(kicad_pcb (version 20171130) (host pcbnew "(5.1.2)-1")
 
   (general
     (thickness 1.6)
@@ -699,11 +699,6 @@
       (net 25 "Net-(U1-Pad3)"))
     (pad 2 smd roundrect (at -2.2 1.15 270) (size 0.2 0.8) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.25)
       (net 26 "Net-(U1-Pad2)"))
-    (model "${KIPRJMOD}/modules/packages3d/Connectors_Hirose.3dshapes/BM14B(0.8)-24DS-0.4V.stp"
-      (offset (xyz 271496084.0516518 -318225550.2318816 -22624673.67097098))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 -90))
-    )
   )
 
   (module TestPoint:TestPoint_Pad_D1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5C0066EF)
